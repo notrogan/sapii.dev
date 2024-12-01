@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sapii&#39;s Blof on Sapii&#39;s Blog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Sapii&#39;s Blof on Sapii&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2024, all rights reserved.</copyright>
+    <lastBuildDate>Sat, 30 Nov 2024 18:39:41 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internship</title>
+      <link>//localhost:1313/blog/internship/</link>
+      <pubDate>Sat, 30 Nov 2024 18:39:41 -0500</pubDate>
+      <guid>//localhost:1313/blog/internship/</guid>
+      <description>&lt;h1 id=&#34;city-of-raleigh-internship&#34;&gt;City of Raleigh Internship&lt;/h1&gt;&#xA;&lt;p&gt;Over last summer I did a internship at the City of Raleigh in their Youth Employment Program.&#xA;Here is a rundown of it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;job-site&#34;&gt;Job Site&lt;/h2&gt;&#xA;&lt;p&gt;We mainly operated remotely, at our computers at home. Communication was handled through a special app on our phones and also the Stack Desktop Application.&#xA;Sometimes we would get to go to in person events at places like the McKimmon Center at NCSU or some community gyms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 21 Nov 2024 00:37:34 -0500</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h1&gt;&#xA;&lt;p&gt;I am Sapii, or that&amp;rsquo;s what my online alias is.&lt;/p&gt;&#xA;&lt;p&gt;I am a student at a particular early college, some might say best in the county.&lt;/p&gt;&#xA;&lt;p&gt;I specialize in CS topics, mainly cybersecurity.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
