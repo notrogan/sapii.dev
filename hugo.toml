@@ -24,6 +24,7 @@ SectionPagesMenu = "main"
   series = "series"
   tag = "tags"
   about = 'about'
+  friends = "friends"
 # Configure syntax highlight
 [markup]
   [markup.highlight]
@@ -47,6 +48,11 @@ SectionPagesMenu = "main"
   identifier = "tag"
   url = "/tags/"
 
+[[memu.main]]
+  name = "Friends"
+  weight = -140
+  identifier = "friends"
+  url = "/friends"
 
 [params.meta]
   keywords = "blog, tech, hacking, rev, web, pwn, ctf"
