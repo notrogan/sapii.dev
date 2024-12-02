@@ -6,4 +6,4 @@ title = 'Friends'
 
 # Lovely Homies I know
 
-### Poorest Ukrainian --> [notrogan.dev](notrogan.dev)
+### Poorest Ukrainian --> notrogan.dev
