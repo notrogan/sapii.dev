@@ -6,6 +6,6 @@ title = 'Friends'
 
 # Lovely Homies I know
 
-### Poorest Ukrainian --> notrogan.dev
+### [Poorest Ukrainian](<notrogan.com>)
 
 ### Fekie --> fekie.dev
