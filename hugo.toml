@@ -48,7 +48,7 @@ SectionPagesMenu = "main"
   identifier = "tag"
   url = "/tags/"
 
-[[memu.main]]
+[[menu.main]]
   name = "Friends"
   weight = -140
   identifier = "friends"
